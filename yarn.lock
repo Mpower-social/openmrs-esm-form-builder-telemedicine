@@ -3426,7 +3426,7 @@ __metadata:
     "@dnd-kit/modifiers": "npm:^6.0.1"
     "@dnd-kit/sortable": "npm:^7.0.2"
     "@dnd-kit/utilities": "npm:^3.2.2"
-    "@openmrs/esm-form-engine-lib": "npm:next"
+    "@openmrs/esm-form-engine-lib": "https://github.com/Mpower-social/openmrs-esm-form-engine-lib-telemedicine.git"
     "@openmrs/esm-framework": "npm:next"
     "@openmrs/esm-patient-common-lib": "npm:next"
     "@openmrs/esm-styleguide": "npm:next"
@@ -3489,9 +3489,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@openmrs/esm-form-engine-lib@npm:next":
-  version: 3.0.1-pre.1649
-  resolution: "@openmrs/esm-form-engine-lib@npm:3.0.1-pre.1649"
+"@openmrs/esm-form-engine-lib@https://github.com/Mpower-social/openmrs-esm-form-engine-lib-telemedicine.git":
+  version: 3.0.1
+  resolution: "@openmrs/esm-form-engine-lib@https://github.com/Mpower-social/openmrs-esm-form-engine-lib-telemedicine.git#commit=ee448736e72cbbe937197684099ea01926d2b73d"
   dependencies:
     "@carbon/react": "npm:>1.47.0 <1.50.0"
     classnames: "npm:^2.5.1"
@@ -3509,7 +3509,7 @@ __metadata:
     react: 18.x
     react-i18next: 11.x
     swr: 2.x
-  checksum: 10/5963aa3b16c4040f52ceac5127ede5418fd919a536cea7b019b38594fd568a801bd8233ee219d90b1eddeb19da4c2f1b7f293971f56a7a170291115e58e1c4bc
+  checksum: 10/c1e51a4202da1e0769242147af7563c04c69d6f9e16329626987a9223c0d8ca06d97e34a2863f2e51342d0f36eacd843f5ce39f3f8cc3a5e6095ad022cae5f2d
   languageName: node
   linkType: hard
 
@@ -17273,11 +17273,11 @@ __metadata:
   linkType: hard
 
 "react-hook-form@npm:^7.52.0":
-  version: 7.53.1
-  resolution: "react-hook-form@npm:7.53.1"
+  version: 7.54.2
+  resolution: "react-hook-form@npm:7.54.2"
   peerDependencies:
     react: ^16.8.0 || ^17 || ^18 || ^19
-  checksum: 10/41ac7140add546b90f75b0aef343b67b795d26a60da7bfeac1ded7716ec01234c6050f5c00a4487c28a73c24f9c9347cda741173a8083d7f4b02b588203e7544
+  checksum: 10/b156d15b6246c76d0275e5722d9056014693e014d0e3dec06e44bf2672ee549aaba4366de5144d18c4cab29e631f3b2b84269d4fd5727ca17aad9b970fde6960
   languageName: node
   linkType: hard
 
